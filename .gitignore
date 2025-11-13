@@ -1,0 +1,20 @@
+https://https://richcmps77-max.github.io/portfolio/.github.io/portfolio/# Ignore VS Code settings
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.dbhttps://richcmps77-max.github.io/portfolio/
+
+# Ignore Node modules (if using npm)
+node_modules/
+package-lock.json
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore editor backups
+*.bak
+*.swp
+*.swo
+*~
